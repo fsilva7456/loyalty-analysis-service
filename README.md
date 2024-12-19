@@ -1,1 +1,1 @@
-IyBMb3lhbHR5IEFuYWx5c2lzIFNlcnZpY2UK
+{"content": "# Loyalty Analysis Service\n", "encoding": "base64"}
