@@ -1,1 +1,3 @@
-{"content": "# Loyalty Analysis Service", "encoding": "utf-8"}
+# Loyalty Analysis Service
+
+A FastAPI service for generating financial models and analysis of loyalty programs.
