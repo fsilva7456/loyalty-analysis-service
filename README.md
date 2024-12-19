@@ -1,1 +1,1 @@
-{"content": "# Loyalty Analysis Service\n", "encoding": "base64"}
+{"content": "# Loyalty Analysis Service", "encoding": "utf-8"}
